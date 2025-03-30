@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+paraphase/__init__.py
+paraphase/config.py
+paraphase/evaluator.py
+paraphasemax.egg-info/PKG-INFO
+paraphasemax.egg-info/SOURCES.txt
+paraphasemax.egg-info/dependency_links.txt
+paraphasemax.egg-info/requires.txt
+paraphasemax.egg-info/top_level.txt
